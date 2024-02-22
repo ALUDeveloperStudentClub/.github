@@ -6,11 +6,11 @@ GDSC is a community-led initiative by Google Developers to help students bridge 
 
 🌈 Contribution guidelines 
 We encourage community members to get involved in various ways:
-Contribute to our open-source projects on GitHub.
-Participate in hackathons, workshops, and coding competitions organized by GDSC.
-Share your knowledge and expertise by giving talks or leading workshops.
-Engage with our community on social media platforms and forums.
-Main the opne source code of conduct by not spammig and respecting everyone contributions in the space 
+- Contribute to our open-source projects on GitHub.
+- Participate in hackathons, workshops, and coding competitions organized by GDSC.
+- Share your knowledge and expertise by giving talks or leading workshops.
+- Engage with our community on social media platforms and forums.
+- Main the opne source code of conduct by not spammig and respecting everyone contributions in the space 
 
 
 👩‍💻 Useful resources - connect with the community here  [WepPage](https://gdsc.community.dev/african-leadership-university/) 
